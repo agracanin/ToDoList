@@ -18,4 +18,4 @@ This is a simple To-Do List application created using Python and the tkinter lib
 - Custom colors for the user interface
 
 ## Screenshots
-![Image of to do list](https://github.com/agracanin/ToDoList/blob/main/demo.png?raw=true)
+![Demo GIF](Demo.gif)
